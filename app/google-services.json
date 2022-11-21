@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25971909023",
+    "project_id": "bharat-invog",
+    "storage_bucket": "bharat-invog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25971909023:android:e0a9689b19d11e8236ddaa",
+        "android_client_info": {
+          "package_name": "com.invog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25971909023-u82e8svmfat5aeju8fh1dppr55mtg0si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJY09CIkKcmNmN8X86HIwZQZQA6edwRec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25971909023-u82e8svmfat5aeju8fh1dppr55mtg0si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
